@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Shakthi Pranav A
+# 👋 Hey there, I'm Shakthi Pranav
 
 ### 🧑‍💻 Backend Developer | Java • Spring Boot • SQL • MongoDB
 
